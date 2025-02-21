@@ -3,6 +3,8 @@ tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: http://jekyll.gtat.me
 
+url: https://zhfu-bit.github.io
+
 # Owner/author information
 owner:
   name:           Cole Townsend
