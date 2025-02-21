@@ -1,6 +1,6 @@
 title:            Zhenghang Fu
-tagline:          A beautiful theme.
-description:      Describe your website.
+tagline:          A website.
+description:      Described website.
 canonical: http://jekyll.gtat.me
 
 url: https://zhfu-bit.github.io
@@ -40,7 +40,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 highlighter: pygments
 markdown:    kramdown
