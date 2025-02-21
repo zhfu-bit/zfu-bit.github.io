@@ -7,16 +7,16 @@ url: https://zhfu-bit.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Zhenghang Fu
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            haunting
+  email:          zfu404@gmail.com
+  twitter:        N/A
+  github:         N/A
+  instagram:      zhh_fo
+  dribbble:       N/A
+  disqus:         fofo
+  location:       "London"
   # Plug in your disqus shortname!
 
 tools:
@@ -25,7 +25,7 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           en_GB
 
 # Links to include in top navigation
 # For external links add external: true
@@ -34,6 +34,8 @@ links:
     url: /about
   - title: Works
     url: /articles
+  - title: Others
+    url: /index
   - title: Instagram
     url: https://www.instagram.com/zhh_fo/
     external: true
